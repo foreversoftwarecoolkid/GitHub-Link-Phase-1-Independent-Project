@@ -14,7 +14,7 @@ Welcome to Animal Explorer! This web application allows users to explore informa
 - Single Page Application with no redirects.
 
 ## Credits
-- Author: Your Name
+- Author: [Your Actual Name]
 - API: [Pandascore API](https://developer.pandascore.io/)
 
 ## License
