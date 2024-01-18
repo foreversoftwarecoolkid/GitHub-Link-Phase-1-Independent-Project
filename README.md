@@ -15,7 +15,7 @@ Welcome to Animal Explorer! This web application allows users to explore informa
 
 ## Credits
 - Author: [Henry Bogita]
-- API: [Pandascore API](https://developer.pandascore.io/)
+  
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
