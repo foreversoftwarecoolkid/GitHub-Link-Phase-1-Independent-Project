@@ -1,0 +1,18 @@
+{
+  "animals": [
+      {
+          "id": 1,
+          "name": "Lion",
+          "description": "The king of the jungle.",
+          "habitat": "Savannah",
+          "lifespan": "10-14 years"
+      },
+      {
+          "id": 2,
+          "name": "Elephant",
+          "description": "The largest land animal.",
+          "habitat": "Various",
+          "lifespan": "60-70 years"
+      }
+  ]
+}

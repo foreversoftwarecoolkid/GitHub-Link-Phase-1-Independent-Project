@@ -1,0 +1,63 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa; 
+}
+
+header {
+  background-color: #343a40; 
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+  border-radius: 8px; 
+}
+
+.animal-card {
+  border: 1px solid #ced4da;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px; /* Rounded corners */
+  transition: transform 0.3s ease-in-out; /* Smooth card hover effect */
+
+  /* Box shadow on hover */
+  :hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  h2 {
+      color: #007bff; /* Blue heading color */
+      margin-bottom: 10px;
+  }
+
+  p {
+      color: #e40c0c;
+      line-height: 1.6;
+  }
+
+  button {
+      background-color: #28a745; /* Green button */
+      color: #fff;
+      border: none;
+      padding: 8px 12px;
+      margin-top: 10px;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out; /* Smooth button hover effect */
+
+      /* Button hover effect */
+      :hover {
+          background-color: #218838; /* Darker green */
+      }
+  }
+}
+
+
